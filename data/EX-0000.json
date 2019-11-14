@@ -1,0 +1,17 @@
+{
+  "issuetype": {
+    "name": "Bug"
+  },
+  "assignee": {
+    "name": "current_user"
+  },
+  "data": {
+    "first_options": {
+      "option 1": "value 1",
+      "option 2": "value 2"
+    },
+    "second_options": {
+      "option 1": "value 1",
+      "option 2": "value 2"
+    }
+  }

@@ -1,0 +1,4 @@
+{
+  "summary": "This is the title template: {{ module }}",
+  "description": "This is the description template:\nA section\nThis is one a new line\n{% if first_options %}\nFirst option:\n{% for item in first_options %}\n* {{ item }}{% endfor %}\n{% endif %}\n{% if second_options %}\nSecond option:\n{% for item in second_options %}\n* {{ item }}{% endfor %}\n{% endif %}"
+}
